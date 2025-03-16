@@ -1,0 +1,5 @@
+/sketch
+/__pycache__
+.env
+*.pyc
+*.pyo
