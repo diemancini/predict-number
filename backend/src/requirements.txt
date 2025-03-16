@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+torchvision
+numpy
+pydantic
+SQLAlchemy
+psycopg2-binary
